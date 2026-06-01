@@ -6,14 +6,46 @@ const App = () => {
 
   const certifications = [
     {
-      title: "Deep Learning Specialist",
+      title: "Neural Networks and Deep Learning",
       org: "Andrew Ng",
       imgUrl: "https://i.postimg.cc/prh1PwNm/IMG-20260419-230142.jpg",
     },
     {
-      title: "Machine Learning Expert",
-      org: "Stanford",
+      title: "Supervised Machine Learning: Regression and Classification",
+      org: "Andrew Ng",
       imgUrl: "https://i.postimg.cc/15L1VKJN/IMG-20260419-230059.jpg",
+    },
+    {
+      title:
+        "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+      org: "Andrew Ng",
+      imgUrl:
+        "https://i.postimg.cc/XvnM1TMJ/Regularization-and-Optimization.png",
+    },
+    {
+      title: "Structuring Machine Learning Projects",
+      org: "Andrew Ng",
+      imgUrl: "https://i.postimg.cc/BQCRLmP4/Structuring-Machine.png",
+    },
+    {
+      title: "Convolutional Neural Networks",
+      org: "Andrew Ng",
+      imgUrl: "https://i.postimg.cc/HndBTC2D/Convolutional-Neural-Networks.png",
+    },
+    {
+      title: "Sequence Models",
+      org: "Andrew Ng",
+      imgUrl: "https://i.postimg.cc/15L1VKJN/IMG-20260419-230059.jpg",
+    },
+    {
+      title: "ADK Mastery - From Beginner to Advanced Agent Development",
+      org: "Packt",
+      imgUrl: "https://i.postimg.cc/Gtnh2X8s/ADK-Mastery.png",
+    },
+    {
+      title: "Build AI Agents with Enterprise Databases",
+      org: "Google Cloud",
+      imgUrl: "https://i.postimg.cc/C1TVHzF2/Build-AI-Agents.png",
     },
   ];
 
